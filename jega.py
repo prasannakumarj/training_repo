@@ -1,1 +1,2 @@
-echo 'Jega VRJ'
+#echo 'Jega VRJ'
+print('Jega VRJ')
